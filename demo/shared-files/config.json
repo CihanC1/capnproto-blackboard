@@ -1,0 +1,5 @@
+{
+  "service": "capnproto-blackboard",
+  "port": 60000,
+  "note": "sample configuration file used by the directory-listing demo"
+}

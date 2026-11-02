@@ -1,0 +1,3 @@
+Hello from the SERVER's file system!
+
+If you can read this line on a client, it travelled through a Cap'n Proto RPC call.
